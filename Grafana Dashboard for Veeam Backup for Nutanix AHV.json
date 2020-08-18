@@ -71,7 +71,7 @@
   "gnetId": 11516,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1597735153280,
+  "iteration": 1597735153283,
   "links": [],
   "panels": [
     {
@@ -238,7 +238,7 @@
             "lastNotNull"
           ]
         },
-        "graphMode": "area",
+        "graphMode": "none",
         "justifyMode": "center",
         "orientation": "auto",
         "reduceOptions": {
@@ -666,7 +666,7 @@
             "lastNotNull"
           ]
         },
-        "graphMode": "area",
+        "graphMode": "none",
         "justifyMode": "center",
         "orientation": "horizontal",
         "reduceOptions": {
@@ -1191,7 +1191,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 15
+        "y": 30
       },
       "id": 569,
       "panels": [],
@@ -1259,7 +1259,7 @@
         "h": 3,
         "w": 8,
         "x": 0,
-        "y": 16
+        "y": 31
       },
       "id": 109,
       "interval": null,
@@ -1361,7 +1361,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 19
+        "y": 37
       },
       "id": 622,
       "panels": [],
@@ -1402,7 +1402,7 @@
         "h": 4,
         "w": 6,
         "x": 0,
-        "y": 20
+        "y": 38
       },
       "id": 369,
       "interval": null,
@@ -1510,7 +1510,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 24
+        "y": 46
       },
       "id": 890,
       "panels": [],
@@ -1550,7 +1550,7 @@
         "h": 4,
         "w": 6,
         "x": 0,
-        "y": 25
+        "y": 47
       },
       "id": 893,
       "interval": null,
@@ -1658,7 +1658,7 @@
         "h": 1,
         "w": 24,
         "x": 0,
-        "y": 29
+        "y": 55
       },
       "id": 627,
       "panels": [],
@@ -1684,7 +1684,7 @@
         "h": 8,
         "w": 12,
         "x": 0,
-        "y": 30
+        "y": 56
       },
       "hiddenSeries": false,
       "id": 898,
@@ -1939,7 +1939,7 @@
         "h": 8,
         "w": 12,
         "x": 12,
-        "y": 30
+        "y": 56
       },
       "hiddenSeries": false,
       "hideTimeOverride": false,
@@ -2448,5 +2448,5 @@
   "timezone": "browser",
   "title": "Grafana Dashboard for Veeam Backup for Nutanix AHV",
   "uid": "rlawskRgk",
-  "version": 11
+  "version": 12
 }
