@@ -1,0 +1,2 @@
+# veeam-backup-for-nutanix-grafana
+  Jorge de la Cruz jorgedlcruz Systems Engineer UK&I at Veeam. VMware vExpert '14-19, Veeam Vanguard '15-'17 and Nutanix Technology Champion '18/'19. 104 followers · 15 following · 41  jorgedelacruz.es      https://jorgedelacruz.es   Highlights      Arctic Code Vault Contributor  Organizations @Zimbra-Community Sponsors @oscarusuarez      veeam-backup-for-office365-grafana      A Grafana Dashboard for Veeam Backup for Nutanix4 
